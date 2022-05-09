@@ -7,3 +7,5 @@ My second repository on GitHub
 I love :coffee: :pizza: and :dancer:.
 
 I also love **learning** and *reading*.
+
+### Adding new branch for new commit.
