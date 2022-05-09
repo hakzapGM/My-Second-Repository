@@ -5,3 +5,5 @@ I am trying to learn more details about GitHub
 My second repository on GitHub
 
 I love :coffee: :pizza: and :dancer:.
+
+I also love **learning** and *reading*.
